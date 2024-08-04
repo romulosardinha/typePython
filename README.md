@@ -1,0 +1,1 @@
+Tipagem com mypy com o vscode
